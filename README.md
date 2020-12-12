@@ -1,4 +1,4 @@
 # Bacis-Hotel-Website
-This repository has a basic hotel website, built using Html5 &amp; Css3.
+This is ahotel website for Hotel UBP .
 
 link of website :- https://hotelubp.netlify.app/
